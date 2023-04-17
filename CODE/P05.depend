@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1662024552 source:c:\temp\p05\main.cpp
+	<iostream>
+	"Matrix2D.h"
+
+1662024972 source:c:\temp\p05\matrix2d.cpp
+	"Matrix2D.h"
+
+1662024972 c:\temp\p05\matrix2d.h
+	<string>
+	<iostream>
+	<sstream>
+	<cmath>
+	<iostream>
+
+1662038668 source:c:\users\general\downloads\p05\p05\main.cpp
+	"Matrix2D.h"
+
+1662039068 c:\users\general\downloads\p05\p05\matrix2d.h
+	<string>
+	<iostream>
+	<sstream>
+	<cmath>
+	<iostream>
+
+1662038589 source:c:\users\general\downloads\p05\p05\matrix2d.cpp
+	"Matrix2D.h"
+
+1662040470 source:c:\users\general\desktop\215046165_p05_nh_kubheka\code\main.cpp
+	"Matrix2D.h"
+
+1662040470 c:\users\general\desktop\215046165_p05_nh_kubheka\code\matrix2d.h
+	<string>
+	<iostream>
+	<sstream>
+	<cmath>
+	<iostream>
+
+1662040470 source:c:\users\general\desktop\215046165_p05_nh_kubheka\code\matrix2d.cpp
+	"Matrix2D.h"
+
